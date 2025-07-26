@@ -1,20 +1,4 @@
-<!-- Página promocional simple para tu app bancaria -->
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Gestor de Salario Personal</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', sans-serif;
-      background: linear-gradient(to right, #3498db, #2c3e50);
-      color: white;
-      text-align: center;
-      padding: 40px 20px;
-    }
-</head>
-<body>
+
   <h1>💰 Gestor de Salario Personal</h1>
   <p>Tu app para administrar ingresos, gastos, servicios y transacciones de forma visual, práctica y automática.</p>
 

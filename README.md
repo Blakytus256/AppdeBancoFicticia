@@ -1,5 +1,5 @@
 
-  <h1>💰 Gestor de Salario Personal</h1>
+  <h1>💰 BETA Gestor de Salario Personal</h1>
   <p>Tu app para administrar ingresos, gastos, servicios y transacciones de forma visual, práctica y automática.</p>
 
   <h2>🔧 Funciones destacadas</h2>

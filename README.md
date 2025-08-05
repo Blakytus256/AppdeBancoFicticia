@@ -25,7 +25,7 @@
   <a href="https://github.com/tuusuario/gestor-salario" class="btn" target="_blank">Ver en GitHub</a>
 
   <footer>
-    &copy; 2025 Yerson Vera - Proyecto personal sin fines comerciales.
+    &copy; 2025 Yerson Vera - Proyecto personal sin fines comerciales. https://blakytus256.github.io/AppdeBancoFicticia/
   </footer>
 </body>
 </html>
